@@ -11,7 +11,7 @@
 
 - 🌐 Some of my projects are available here(In progress...) - https://github.com/jeancsilva1
 
-- ☕ Java Course 100% Completed - https://www.udemy.com/course/java-curso-completo/
+- ☕ Java Course 80% Completed - https://www.udemy.com/course/java-curso-completo/
 
 - 📚 FullStack OnebitCode Course in Progress(40%) - https://programador.onebitcode.com/
 
