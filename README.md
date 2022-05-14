@@ -3,13 +3,17 @@
 
 <br>
 
+- 🎓 Computer Scientist 
+
+- ⚙ Network Engineer 
+
 - 🔥 FullStack Developer, looking for career migrations. (Networks 🔁 Development)
 
-- 🤓 I am currently a Network Administrator at the University of Franca.
+- 🌐 I am currently a Network Administrator at the University of Franca.
 
 - 💻 I worked at Codebit as a Java Developer - https://codebit.com.br
 
-- 🌐 Some of my projects are available here(In progress...) - https://github.com/jeancsilva1
+- 🤖 Some of my projects are available here(In progress...) - https://github.com/jeancsilva1
 
 - ☕ Java Course 80% Completed - https://www.udemy.com/course/java-curso-completo/
 
