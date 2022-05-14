@@ -7,7 +7,7 @@
 
 - 🤓 I am currently a Network Administrator at the University of Franca.
 
-- 🧥 I worked at Codebit as a Java Developer - https://codebit.com.br
+- 💻 I worked at Codebit as a Java Developer - https://codebit.com.br
 
 - 🌐 Some of my projects are available here(In progress...) - https://github.com/jeancsilva1
 
