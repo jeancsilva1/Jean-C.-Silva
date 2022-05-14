@@ -1,20 +1,22 @@
 <h1>Heeeeey, Devs! I'm Jean C. Silva!
 <img src="https://raw.githubusercontent.com/kaueMarques/kauemarques/master/hi.gif" width="30px"></h1>
 
+<br>
+
 - 🔥 FullStack Developer, looking for career migrations. (Networks 🔁 Development)
 
 - 🤓 I am currently a Network Administrator at the University of Franca.
 
-- 🧥 I worked at Codebit as a Java Developer https://codebit.com.br
+- 🧥 I worked at Codebit as a Java Developer - https://codebit.com.br
 
-- 🌐 Some of my projects are available here. https://github.com/jeancsilva1
+- 🌐 Some of my projects are available here(In progress...) - https://github.com/jeancsilva1
 
-- ☕ Java Course 100% Completed https://www.udemy.com/course/java-curso-completo/
+- ☕ Java Course 100% Completed - https://www.udemy.com/course/java-curso-completo/
 
-- 📚 FullStack OnebitCode Course in Progress(40%) https://programador.onebitcode.com/
+- 📚 FullStack OnebitCode Course in Progress(40%) - https://programador.onebitcode.com/
 
-
- <br><br>
+ <br>
+ 
 ## 🛠 &nbsp;Deepening in Languages ⬇
 
 <img align="center" alt="HTML5" 
