@@ -1,14 +1,19 @@
 <h1>Faaala, Devs! Eu sou o Jean C. Silva!
 <img src="https://raw.githubusercontent.com/kaueMarques/kauemarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Desenvolvedor FullStack, buscando migração de carreira.
+- 🔥 Desenvolvedor FullStack, buscando migração de carreira. (Redes 🔁 Desenvolvimento)
 
 - 🤓 Atulamente sou Administrador de Redes na Universidade de Franca.
 
 - 🧥 Atuei na Codebit como Desenvolvedor Java (https://codebit.com.br)
 
-- 🌐 Alguns dos meus projetos estão disponíveis aqui. ()
- 
+- 🌐 Alguns dos meus projetos estão disponíveis aqui. (https://github.com/jeancsilva1)
+
+- ☕ Curso Java 100% Finalizado (https://www.udemy.com/course/java-curso-completo/)
+
+- 📚 Curso FullStack OnebitCode em Andamento(40%) (https://programador.onebitcode.com/) 
+
+
  <br><br>
 ## 🛠 &nbsp;Mergulhando nas Linguagens ⬇
 
