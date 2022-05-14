@@ -1,4 +1,4 @@
-<h1>Faaala, Devs! Eu sou o Jean C. Silva!
+<h1>Heeeeey, Devs! I'm Jean C. Silva!
 <img src="https://raw.githubusercontent.com/kaueMarques/kauemarques/master/hi.gif" width="30px"></h1>
 
 - 🔥 FullStack Developer, looking for career migrations. (Networks 🔁 Development)
