@@ -1,4 +1,4 @@
-<h1>Heey, Devs! I'm Jean C. Silva!
+<h1>Heey, Devs! I'm Jean!
 <img src="https://raw.githubusercontent.com/kaueMarques/kauemarques/master/hi.gif" width="30px"></h1>
 
 <br>
