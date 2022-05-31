@@ -39,8 +39,6 @@ src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.j
 src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img align="center" alt="MONGODB"
 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="center" alt="SEQUELIZE"
-src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
  <img align="center" alt="MYSQL"
 src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
